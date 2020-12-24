@@ -65,7 +65,7 @@
 
 ## 6교시 - 국어
 ### 바로가기
-[국어 바로가기](https://rang.edunet.net/class/G000372933/hmwkppList.do?hmwkSeq=737885&hmwkTypeCd=ALL)
+[국어 바로가기](https://rang.edunet.net/class/G000323851/hmwkppList.do?hmwkSeq=747504&hmwkTypeCd=ALL)
 ### 문제 
 ```
 1. " 난 김홍도의 그림 <씨름도>에 관해 알아보고 싶어."
