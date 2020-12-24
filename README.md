@@ -42,7 +42,7 @@
 
 ## 3, 4교시 - 미술
 ### 바로가기
-[미술 바로가기](https://rang.edunet.net/class/G000360707/hmwkppList.do?hmwkSeq=730967&hmwkTypeCd=ALL)
+[미술 바로가기](https://rang.edunet.net/class/G000360707/hmwkppList.do?hmwkSeq=738584&hmwkTypeCd=ALL)
 ### 문제
 ```
 1. 본인이 제작하고 싶은 실리콘몰드 모양은?
